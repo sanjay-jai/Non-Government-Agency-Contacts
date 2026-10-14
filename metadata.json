@@ -1,0 +1,6 @@
+{
+  "name": "Contact & Agency Directory",
+  "description": "Search and contact agencies, operators, and volunteers by location and street name.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
